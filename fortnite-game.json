@@ -13186,7 +13186,7 @@
       "backgrounds": {
         "backgrounds": [
           {
-            "backgroundimage": "https://static.wikia.nocookie.net/fortnite/images/0/0f/Chapter_4_Season_4_-_Lobby_Background_-_Fortnite.png",
+            "backgroundimage": "s",
             "stage": "defaultnotris",
             "_type": "DynamicBackground",
             "key": "lobby"
